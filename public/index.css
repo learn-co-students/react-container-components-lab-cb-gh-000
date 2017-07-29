@@ -1,0 +1,4 @@
+body { margin: 0; }
+table { width: 100%; }
+tr:nth-child(even) { background: #EEE; }
+tr:nth-child(odd) { background: #FFF; }
