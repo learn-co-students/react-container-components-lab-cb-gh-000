@@ -5,7 +5,7 @@ In this lab, we will practice building container components. By the end of the l
 1. Practiced Building Container Components.
 2. Gained concrete experience combining presentational and container components to separate the data and presentation layers.
 
-## Oh, To Be a Critic!
+## Oh, To Bef a Critic!
 ![Thumbs Down](https://s3.amazonaws.com/ezmiller/public/images/thumbs-down-kevin.gif)
 
 Movie critics can be harsh, but it's a blast to read what they write. For this lab, imagine that you've been hired to work on a web application devoted to movie reviews. The app will draw its review content from the _New York Times_, which has provided a public, queryable API for their content.
